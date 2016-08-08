@@ -1,0 +1,19 @@
+[07-Aug-2016 20:23:00 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '=' in /home/douglas/public_html/multicredito/compra.php on line 2
+[07-Aug-2016 22:07:38 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/douglas/public_html/multicredito/compra.php on line 21
+[07-Aug-2016 22:08:00 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/douglas/public_html/multicredito/compra.php on line 20
+[07-Aug-2016 22:08:02 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/douglas/public_html/multicredito/compra.php on line 20
+[07-Aug-2016 22:08:03 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/douglas/public_html/multicredito/compra.php on line 20
+[07-Aug-2016 22:08:58 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/douglas/public_html/multicredito/compra.php on line 19
+[07-Aug-2016 22:33:49 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/douglas/public_html/multicredito/compra.php on line 19
+[07-Aug-2016 22:33:50 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/douglas/public_html/multicredito/compra.php on line 19
+[07-Aug-2016 22:33:51 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/douglas/public_html/multicredito/compra.php on line 19
+[07-Aug-2016 22:33:51 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/douglas/public_html/multicredito/compra.php on line 19
+[07-Aug-2016 22:33:52 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/douglas/public_html/multicredito/compra.php on line 19
+[07-Aug-2016 22:40:22 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/douglas/public_html/multicredito/compra.php on line 19
+[07-Aug-2016 23:00:06 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ']' in /home/douglas/public_html/multicredito/compra.php on line 22
+[07-Aug-2016 23:23:04 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/douglas/public_html/multicredito/compra.php on line 47
+[07-Aug-2016 23:57:55 America/Sao_Paulo] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/douglas/public_html/multicredito/compra.php on line 15
+[07-Aug-2016 23:58:01 America/Sao_Paulo] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/douglas/public_html/multicredito/compra.php on line 15
+[07-Aug-2016 23:58:18 America/Sao_Paulo] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/douglas/public_html/multicredito/compra.php on line 15
+[08-Aug-2016 18:07:33 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '.' in /home/douglas/public_html/multicredito/mostrar.php on line 5
+[08-Aug-2016 18:13:15 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/douglas/public_html/multicredito/compra.php on line 52
