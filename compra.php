@@ -57,7 +57,7 @@ CPF:<? echo $linha["cpf"];?>
     
     <p><label>Repassar Custo?<select name="select">
   <option value="value1">Sim</option> 
-  <option value="value2" selected>N«ªo</option>
+  <option value="value2" selected>NÂÂ«Âªo</option>
  </select></label></p>
     
 </fieldset>
