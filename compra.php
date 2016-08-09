@@ -99,47 +99,47 @@ function id(el) {
 }
 function total( un, qnt ) {
   
-  return 1 * 1000 * Math.pow((1 + 5), 10) / (1 - Math.pow((1 + 5), 10));
+  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))*0,532856;
 }
 
 function total2( un, qnt ) {
-  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))/3;
+  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))*0,362745;
 }
 
 function total3( un, qnt ) {
-  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))/4;
+  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))*0,277766;
 }
 
 function total4( un, qnt ) {
-  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))/5;
+  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))*0,226840;
 }
 
 function total5( un, qnt ) {
-  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))/6;
+  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))*0,192941;
 }
 
 function total6( un, qnt ) {
-  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))/7;
+  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))*0,168771;
 }
 
 function total7( un, qnt ) {
-  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))/8;
+  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))*0,150682;
 }
 
 function total8( un, qnt ) {
-  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))/9;
+  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))*0,136646;
 }
 
 function total9( un, qnt ) {
-  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))/10;
+  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))*0,125448;
 }
 
 function total10( un, qnt ) {
-  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))/11;
+  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))*0,116314;
 }
 
 function total11( un, qnt ) {
-  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))/12;
+  return (parseFloat(un.replace(',', '.'), 10) - parseFloat(qnt.replace(',', '.'), 10))*0,108727;
 }
 
 
